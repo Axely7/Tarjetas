@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33.325rem;
+    height: 18rem;
+    margin-top: 3rem;
+    border-radius: 0.5rem;
+    border-style: solid;
+    border-color: #4d4d4d;
+    padding: 1rem;
+    background-color: #161616;
+}
+
+
+.presentacion{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    border-radius: 1.25rem;
+}
+
+.alheli{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    border-radius: 1.25rem;
+}
+
